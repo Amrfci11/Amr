@@ -1,5 +1,5 @@
 # Amr
-#assembly code for 
+#assembly code for solveing -(x+y-2*z+1) Equation
 .586https://github.com/Amrfci11/Amr/pulls
 .MODEL FLAT
 INCLUDE io.h
