@@ -190,10 +190,10 @@ INCLUDE io.h
 	num2 DWORD ?
 	num3 DWORD ?
 	num4 DWORD ?
-	mesg1 BYTE "enter the number 1 : ",0
-	mesg2 BYTE "enter the number 2 : ",0
-	mesg3 BYTE "enter the number 3 : ",0
-	mesg4 BYTE "enter the number 4 : ",0
+	mesg1 BYTE "enter the grade 1 : ",0
+	mesg2 BYTE "enter the grade 2 : ",0
+	mesg3 BYTE "enter the grade 3 : ",0
+	mesg4 BYTE "enter the grade 4 : ",0
 	inp BYTE 40 DUP (?)
 	result1 BYTE " the sum is : ",0
 	result2 BYTE " the avg is : ",0
